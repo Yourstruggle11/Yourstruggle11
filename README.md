@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yourstruggle!
 - 👀 I’m interested in New things
-- 📫 contact me at souviksen093@gmail.com.
+- 📫 contact me at souviksen093@gmail.com
 
 <!---
 Yourstruggle11/Yourstruggle11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
