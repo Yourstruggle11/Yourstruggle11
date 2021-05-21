@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yourstruggle!
+- 👋 hey, this is Yourstruggle!
 - 👀 I’m interested in New things
 - 📫 contact me at souviksen093@gmail.com
 
