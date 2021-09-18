@@ -11,7 +11,7 @@
 <ul>
 
   <li> 💬 Ask me about Full Stack Web Development | Backend Development | GUI Based Applications</li>
-  <!--<li>💼 Portfolio: Check out my Portfolio at    https://prasun-das.web.app/  </li>-->
+  <li>💼 Portfolio: Check out my Portfolio at  https://souviksenportfolio.netlify.app/  </li>
   <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
 </ul>
 
@@ -103,8 +103,8 @@
 
 ## Connect with me
 <p align="center">
-<!--<a href="https://www.linkedin.com/in/prasun--das/"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@prasundas115"><img height="45" src="https://waxex.africa/wp-content/uploads/2018/01/medium-icon-white-on-black.png"></a>
+<a href="https://www.linkedin.com/in/souvik-sen-749519211"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
+<!--<a href="https://medium.com/@prasundas115"><img height="45" src="https://waxex.africa/wp-content/uploads/2018/01/medium-icon-white-on-black.png"></a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/Prasun_Das_"><img height="45" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>-->
 &nbsp;&nbsp;
