@@ -58,7 +58,7 @@
 <div>
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="36">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="39">
-<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="36">
+<!-- <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="36"> -->
 </div>
 
 ### Dev-Ops:
@@ -85,6 +85,9 @@
 |  Web Developer Intern | [@IEMA](https://iemlabs.com) | Mar 2021 - Present |
 | React Developer | [@Aberantz (USA)](http://www.aberantz.org.in) | Feb 2021 - Present |
 | Freelancer | [@TreatAp]() | Nov 2020 - Dec 2020 |
+
+
+
 | Software Developer Intern | [@Quordnet-Academy]() | July 2020 - Mar 2021 |-->
 
 
