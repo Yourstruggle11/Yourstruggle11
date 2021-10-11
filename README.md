@@ -106,6 +106,7 @@
 
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=Yourstruggle11&count_private=true&theme=merko&show_icons=true&hide=prs)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yourstruggle11&layout=compact&theme=merko)
 
 
 ## Connect with me
