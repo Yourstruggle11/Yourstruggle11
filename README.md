@@ -106,7 +106,8 @@
 
 #### Overall profile stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Yourstruggle11&count_private=true&theme=merko&show_icons=true&hide=prs) -->
-<pre> <img src="https://github-readme-stats.vercel.app/api?username=Yourstruggle11&count_private=true&theme=merko&show_icons=true&hide=prs"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yourstruggle11&layout=compact&theme=merko"> </pre>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yourstruggle11&layout=compact&theme=merko">
+ <img src="https://github-readme-stats.vercel.app/api?username=Yourstruggle11&count_private=true&theme=merko&show_icons=true&hide=prs"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yourstruggle11&theme=tokyonight" >
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Yourstruggle11&theme=tokyonight) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yourstruggle11&layout=compact&theme=merko) -->
