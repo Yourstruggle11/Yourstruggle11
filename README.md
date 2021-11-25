@@ -101,7 +101,8 @@
 ### 🏆 Github Profile Trophy </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yourstruggle11&theme=dracula" alt="Yourstruggle11" /></a> </p>
 
-
+### Contribution Graph
+<img src="https://activity-graph.herokuapp.com/graph?username=Yourstruggle11&theme=react-dark&hide_border=true&area=true" >
 
 
 #### Overall profile stats
