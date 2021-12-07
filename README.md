@@ -57,7 +57,9 @@
 #### Database:
 <div>
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="36">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="39">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="39">
+ 
 <!-- <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="36"> -->
 </div>
 
