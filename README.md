@@ -94,7 +94,7 @@
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 |  MERN Stack Developer Intern | [@Code With Coffee](https://thecodewithcoffee.com/) | Sep 2021 - Present |
-|  Full Stack Web Developer Intern | [@IEMA](https://iemlabs.com) | Oct 2021 - Present |
+|  Full Stack Web Developer Intern | [@IEMA](https://iemlabs.com) | Oct 2021 - Dec 2021 |
 
 
 
