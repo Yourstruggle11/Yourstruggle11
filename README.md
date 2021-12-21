@@ -76,7 +76,9 @@
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" height="36"> -->
 <img src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f9804b36ff7196d4b72a0_logo-react-native-tech.png" height="36">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="36">
+<img src="https://github.com/scrapy/scrapy/raw/master/artwork/scrapy-logo.jpg" height="40" style="max-width: 100%;">
 </div>
+<br />
 
 
 <!--## Work Experience :
