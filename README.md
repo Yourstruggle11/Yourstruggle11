@@ -20,6 +20,8 @@
 ##  Skilled in 
 
 ### Languages:
+
+<img align="right" src="https://c.tenor.com/dacU_xeX5CMAAAAC/naruto-kid.gif" width="400" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%;">
 <div>
 <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="36">-->
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png" height="36">
@@ -28,9 +30,10 @@
 <!--<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="36">-->
 </div>
 
-
 ### Web Development (Full-stack):
 #### Frontend/UI:
+
+
 <div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png" height="36">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png" height="36">
@@ -64,6 +67,8 @@
  
 <!-- <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="36"> -->
 </div>
+
+
 
 ### Dev-Ops:
 <div>
