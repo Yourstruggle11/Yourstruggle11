@@ -102,7 +102,7 @@
 | Software Developer Intern | [@Quordnet-Academy]() | July 2020 - Mar 2021 |-->
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-|  MERN Stack Developer Intern | [@Quordnet-Academy](www.quordnetacademy.com) | Dec 2021 - Present |
+|  MERN Stack Developer Intern | [@Quordnet-Academy](https://www.quordnetacademy.com) | Dec 2021 - Present |
 |  MERN Stack Developer Intern | [@Code With Coffee](https://thecodewithcoffee.com/) | Sep 2021 - Dec 2021 |
 |  Full Stack Web Developer Intern | [@IEMA](https://iemlabs.com) | Oct 2021 - Present |
 
