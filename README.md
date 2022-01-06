@@ -44,6 +44,7 @@
 <img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" height="36">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="36">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="36">
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
 <!-- <img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" height="36">  -->
 </div>
 
@@ -84,6 +85,7 @@
 <img src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f9804b36ff7196d4b72a0_logo-react-native-tech.png" height="36">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="36">
 <img src="https://github.com/scrapy/scrapy/raw/master/artwork/scrapy-logo.jpg" height="40" style="max-width: 100%;">
+<img src="https://img.icons8.com/office/50/000000/figma.png"/>
 </div>
 <br />
 
