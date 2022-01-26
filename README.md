@@ -34,6 +34,7 @@
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png" height="36">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png" height="36">
 <img src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" height="36">
+<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="36">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="36">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.styled-components.com/atom.png" height="36">
@@ -52,6 +53,7 @@
 <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" height="42" style="max-width: 100%;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="36">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="36">
+<img src="https://camo.githubusercontent.com/1bb2ed656d9ec6f7778dac9a54c73d35480cad9b519489df5e5647de120c7843/68747470733a2f2f736e6d7063656e7465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31302f5245535466756c2d4150492d6c6f676f2d666f722d6c696768742d62672e706e67" height="30" data-canonical-src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" style="max-width: 100%;">
 
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="36">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="36">
@@ -81,6 +83,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="36">
 <img src="https://github.com/scrapy/scrapy/raw/master/artwork/scrapy-logo.jpg" height="40" style="max-width: 100%;">
 <img src="https://img.icons8.com/office/50/000000/figma.png"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgBF-nV5cox7Er8ZEBDifznX4W2Oj7boo5OQ&usqp=CAU" height="36"/>
 </div>
 <br />
 
