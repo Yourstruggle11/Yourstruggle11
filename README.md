@@ -35,6 +35,7 @@
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png" height="36">
 <img src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" height="36">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="36">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.styled-components.com/atom.png" height="36">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="36">
 <img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" height="36">  
@@ -48,11 +49,13 @@
 
 <div>
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="36">
-<img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" height="36">
+<img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" height="42" style="max-width: 100%;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ZPGP8pUjV05Vjq1JYNSgAN22HhW_AOfnYA&usqp=CAU" height="36">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="36">
+
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="36">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="36">
+<img src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" height="42" style="max-width: 100%;">
 </div>
 
 #### Database:
