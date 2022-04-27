@@ -2,7 +2,7 @@
 
  <h2 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Souvik Sen  </h2>  
  
-<p> A Web developer🎯 from India. I'm passionate about Full-Stack Web Development. I like to automate things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Innovation enthusiastic and a great problem solver, currently pursuing my Diploma in CS from IEMlabs, Kolkata. </p>
+<p> A Software and Web developer🎯 from India. I'm passionate about Full-Stack Web Development. I like to automate things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, Innovation enthusiastic and a great problem solver, currently pursuing my Diploma in CS from IEMlabs, Kolkata. </p>
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
