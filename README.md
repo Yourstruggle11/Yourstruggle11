@@ -74,6 +74,9 @@
 <div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="36">
 <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="36">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60" style="max-width: 100%;">
+ 
+<img src="https://miro.medium.com/max/1400/1*66Piol1gcbLNbMT44yQY6Q.png" alt="nginx" width="60" height="60" style="max-width: 100%;">
 </div>
 
 ### Others:
