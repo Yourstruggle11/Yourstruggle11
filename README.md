@@ -106,6 +106,10 @@
 - <a href="https://www.pephub.tech/blogs/20-project-ideas-to-practice-your-development-expertise-and-improve-your-resume-34137bbd"> 20 Project Ideas to Practice Your Development expertise and Improve Your Resume  </a>
 
 
+<h1>Latest NPM package: </h1>
+- <a href="https://www.npmjs.com/package/@yourstruggle11/unslugify"> Unslugify  </a> <br />
+
+
 ### 🏆 Github Profile Trophy </h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yourstruggle11&theme=dracula" alt="Yourstruggle11" /></a> </p>
