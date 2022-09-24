@@ -107,8 +107,8 @@
 
 
 <h1>Latest NPM packages: </h1>
- - <a href="https://www.npmjs.com/package/@yourstruggle11/unslugify"> Unslugify  </a> <br />
  - <a href="https://www.npmjs.com/package/noexgen"> NoExGen  </a> <br />
+ - <a href="https://www.npmjs.com/package/@yourstruggle11/unslugify"> Unslugify  </a> <br />
 
 
 ### 🏆 Github Profile Trophy </h2>
