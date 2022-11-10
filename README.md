@@ -94,11 +94,12 @@
 
 |         💼 Designation          |                    🏢Organization                    |     ⏰Timeline      |
 | :-----------------------------: | :--------------------------------------------------: | :-----------------: |
-|             SDE                 |             [@Matricula](https://matricula.co.in/)   | Sep 2022 - Present  |
-|      Technical Instructor       |             [@IEMA](https://iemlabs.com)             | Mar 2022 - Present  |
+|             SDE                 |             [@Quantorix](https://www.quantorix.com/) | Nov 2022 - Present  |
+|             SDE                 |             [@Matricula](https://matricula.co.in/)   | Aug 2022 - Oct 2022 |
+|      Technical Instructor       |             [@IEMA](https://iemlabs.com)             | Mar 2022 - Sep 2022 |
 |   MERN Stack Developer Intern   | [@Quordnet-Academy](https://www.quordnetacademy.com) | Dec 2021 - Present  |
 |   MERN Stack Developer Intern   | [@Code With Coffee](https://thecodewithcoffee.com/)  | Sep 2021 - Dec 2021 |
-| Full Stack Web Developer Intern |             [@IEMA](https://iemlabs.com)             | Oct 2021 - Sep 2022  |
+| Full Stack Web Developer Intern |             [@IEMA](https://iemlabs.com)             | Oct 2021 - Sep 2022 |
 
 
 <h1>Latest Blog Posts 💬 📋 ✒️ </h1>
