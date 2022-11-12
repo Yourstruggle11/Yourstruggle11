@@ -22,6 +22,7 @@
 <img align="right" src="https://c.tenor.com/dacU_xeX5CMAAAAC/naruto-kid.gif" width="400" data-canonical-src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%;">
 <div>
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png" height="36">
+ <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="36">
  <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" height="36">
  <img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" height="36">
 </div>
