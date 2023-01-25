@@ -113,6 +113,10 @@
  - <a href="https://www.npmjs.com/package/@yourstruggle11/unslugify"> Unslugify  </a> <br />
 
 
+<h1>Latest Chrome Extensions: </h1>
+ - <a href="https://github.com/Yourstruggle11/CaptureTheScreen"> CaptureTheScreen  </a> <br />
+
+
 ### 🏆 Github Profile Trophy </h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yourstruggle11&theme=dracula" alt="Yourstruggle11" /></a> </p>
