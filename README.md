@@ -104,6 +104,7 @@
 
 
 <h1>Latest Blog Posts 💬 📋 ✒️ </h1>
+- <a href="https://medium.com/@souviksen093/introducing-noexgen-a-node-express-application-generator-e8c657cb36f"> Introducing NoExGen: A Node/Express Application Generator  </a> <br />
 - <a href="https://www.pephub.tech/blogs/cloud-computing-cheatsheet-469eead2"> Cloud Computing Cheatsheet  </a> <br />
 - <a href="https://www.pephub.tech/blogs/20-project-ideas-to-practice-your-development-expertise-and-improve-your-resume-34137bbd"> 20 Project Ideas to Practice Your Development expertise and Improve Your Resume  </a>
 
