@@ -117,8 +117,8 @@
 
 
 <h1>Latest Chrome Extensions: </h1>
+ - <a href="https://github.com/Yourstruggle11/StayProductive"> StayProductive  </a> <br />
  - <a href="https://github.com/Yourstruggle11/CaptureTheScreen"> CaptureTheScreen  </a> <br />
-
 
 ### 🏆 Github Profile Trophy </h2>
 
