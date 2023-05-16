@@ -11,7 +11,7 @@
 <ul>
 
   <li> 💬 Ask me about Full Stack Web Development | Backend Development | GUI Based Applications</li>
-  <li>💼 Portfolio: Check out my Portfolio at  https://souviksenportfolio.netlify.app/  </li>
+  <li>💼 Portfolio: Check out my Portfolios at  https://souviksenportfolio.netlify.app/ and https://v01souviksenportfolio.netlify.app/ </li>
   <li>👯 I’m looking to collaborate Full Stack Web development Projects </li>
 </ul>
 
