@@ -104,6 +104,7 @@
 
 
 <h1>Latest Blog Posts 💬 📋 ✒️ </h1>
+- <a href="https://medium.com/@souviksen093/unleashing-the-power-of-performance-optimization-in-web-applications-bf23272d06e"> Unleashing the Power of Performance Optimization in Web Applications  </a> <br />
 - <a href="https://medium.com/@souviksen093/git-time-travel-a-guide-to-manipulating-git-history-937d314d39f8"> Git Time Travel: A Guide to Manipulating Git History  </a> <br />
 - <a href="https://medium.com/@souviksen093/introducing-noexgen-a-node-express-application-generator-e8c657cb36f"> Introducing NoExGen: A Node/Express Application Generator  </a> <br />
 - <a href="https://www.pephub.tech/blogs/cloud-computing-cheatsheet-469eead2"> Cloud Computing Cheatsheet  </a> <br />
