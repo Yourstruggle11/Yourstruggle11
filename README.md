@@ -104,6 +104,7 @@
 
 
 <h1>Latest Blog Posts 💬 📋 ✒️ </h1>
+- <a href="https://medium.com/@souviksen093/mastering-design-patterns-in-react-a-comprehensive-guide-836a288af34"> Mastering Design Patterns in React: A Comprehensive Guide  </a> <br />
 - <a href="https://medium.com/@souviksen093/mastering-react-best-practices-for-building-high-quality-applications-6b60e4e66f7a"> Mastering React: Best Practices for Building High-Quality Applications  </a> <br />
 - <a href="https://medium.com/@souviksen093/understanding-react-reconciliation-in-react-18-a-deep-dive-16b083e5592a"> Understanding React Reconciliation in React 18: A Deep Dive  </a> <br />
 - <a href="https://medium.com/@souviksen093/unleashing-the-power-of-performance-optimization-in-web-applications-bf23272d06e"> Unleashing the Power of Performance Optimization in Web Applications  </a> <br />
