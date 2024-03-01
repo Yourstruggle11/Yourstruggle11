@@ -95,7 +95,8 @@
 
 |         💼 Designation          |                    🏢Organization                    |     ⏰Timeline      |
 | :-----------------------------: | :--------------------------------------------------: | :-----------------: |
-|             SDE                 |             [@Quantorix](https://www.quantorix.com/) | Nov 2022 - Present  |
+|             SDE                 |             [@Phlo](https://www.phlo.io/)            | Mar 2024 - Present  |
+|             SDE                 |             [@Quantorix](https://www.quantorix.com/) | Nov 2022 - Fab 2024 |
 |             SDE                 |             [@Matricula](https://matricula.co.in/)   | Aug 2022 - Oct 2022 |
 |      Technical Instructor       |             [@IEMA](https://iemlabs.com)             | Mar 2022 - Nov 2022 |
 |   MERN Stack Developer Intern   | [@Quordnet-Academy](https://www.quordnetacademy.com) | Dec 2021 - July 2022|
