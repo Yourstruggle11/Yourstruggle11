@@ -4,7 +4,6 @@
 
 Based in Kolkata, India. I am a software engineer with 3+ years of experience across fintech and SaaS, working mostly with React, TypeScript, Node.js, and modern cloud workflows. I care about product quality, performance, maintainable architecture, and shipping features that hold up in production.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yourstruggle11-181717?style=flat&logo=github)](https://github.com/Yourstruggle11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yourstruggle11-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourstruggle11)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yourstruggle11.netlify.app-000000?style=flat&logo=netlify)](https://yourstruggle11.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-@yourstruggle11-12100E?style=flat&logo=medium)](https://medium.com/@yourstruggle11)
