@@ -1,6 +1,6 @@
 # Souvik Sen — Software Engineer
 
-**Frontend-heavy full-stack engineer building fast React products, real-time SaaS workflows, and developer tooling.**
+**Product-focused full-stack engineer building fast React products, real-time SaaS workflows, and developer tooling.**
 
 Based in Kolkata, India. I am a software engineer with 3+ years of experience across fintech and SaaS, working mostly with React, TypeScript, Node.js, and modern cloud workflows. I care about product quality, performance, maintainable architecture, and shipping features that hold up in production.
 
