@@ -5,9 +5,9 @@
 Based in Kolkata, India. I am a software engineer with 3+ years of experience across fintech and SaaS, working mostly with React, TypeScript, Node.js, and modern cloud workflows. I care about product quality, performance, maintainable architecture, and shipping features that hold up in production.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yourstruggle11-181717?style=flat&logo=github)](https://github.com/Yourstruggle11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-souviksen11-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/souviksen11)
-[![Portfolio](https://img.shields.io/badge/Portfolio-souviksenportfolio.netlify.app-000000?style=flat&logo=netlify)](https://souviksenportfolio.netlify.app)
-[![Medium](https://img.shields.io/badge/Medium-@souviksen093-12100E?style=flat&logo=medium)](https://medium.com/@souviksen093)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourstruggle11-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourstruggle11)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourstruggle11.netlify.app-000000?style=flat&logo=netlify)](https://yourstruggle11.netlify.app/)
+[![Medium](https://img.shields.io/badge/Medium-@yourstruggle11-12100E?style=flat&logo=medium)](https://medium.com/@yourstruggle11)
 [![Email](https://img.shields.io/badge/Email-souviksen093%40gmail.com-D14836?style=flat&logo=gmail)](mailto:souviksen093@gmail.com)
 
 ---
@@ -53,10 +53,10 @@ Community platform for developers with discussions, comments, profiles, notifica
 ## Latest Writing
 
 - I write about React internals, frontend engineering, performance, and developer tooling.
-- [React 19 Reconciliation Deep Dive](https://medium.com/@souviksen093/react-19-reconciliation-deep-dive-ed433ce1e375)
-- [Your Google Maps Works Because of Einstein](https://medium.com/@souviksen093/your-google-maps-works-because-of-einstein-848d83916777)
-- [Drag and Drop in React Doesn't Have to Be Painful: Meet react-dragdrop-kit](https://medium.com/@souviksen093/drag-and-drop-in-react-doesnt-have-to-be-painful-meet-react-dragdrop-kit-4c73b5022145)
-- [More on Medium](https://medium.com/@souviksen093)
+- [React 19 Reconciliation Deep Dive](https://medium.com/@yourstruggle11/react-19-reconciliation-deep-dive-ed433ce1e375)
+- [Your Google Maps Works Because of Einstein](https://medium.com/@yourstruggle11/your-google-maps-works-because-of-einstein-848d83916777)
+- [Drag and Drop in React Doesn't Have to Be Painful: Meet react-dragdrop-kit](https://medium.com/@yourstruggle11/drag-and-drop-in-react-doesnt-have-to-be-painful-meet-react-dragdrop-kit-4c73b5022145)
+- [More on Medium](https://medium.com/@yourstruggle11)
 
 ---
 
@@ -64,4 +64,4 @@ Community platform for developers with discussions, comments, profiles, notifica
 
 React, Next.js, TypeScript, Node.js, Express, FastAPI, React Native, MongoDB, PostgreSQL, Redis, Docker, GitHub Actions, AWS.
 
-Open to senior frontend and full-stack roles, product engineering work, and collaborations around React, SaaS, and developer tooling. Best way to reach me is by [email](mailto:souviksen093@gmail.com) or [LinkedIn](https://linkedin.com/in/souviksen11).
+Open to senior frontend and full-stack roles, product engineering work, and collaborations around React, SaaS, and developer tooling. Best way to reach me is by [email](mailto:souviksen093@gmail.com) or [LinkedIn](https://linkedin.com/in/yourstruggle11).
