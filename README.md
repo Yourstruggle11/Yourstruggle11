@@ -139,8 +139,8 @@ SELECT title, published FROM medium_posts ORDER BY published DESC;
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yourstruggle11&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yourstruggle11&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Yourstruggle11&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yourstruggle11&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9" height="165"/>
 
 </div>
 
@@ -176,7 +176,7 @@ Connection to souvik-sen closed.
 
 <div align="center">
 
-<a href="mailto:souviksen093@gmail.com"><img src="https://img.shields.io/badge/email-souviksen093@gmail.com-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:yourstruggle11@gmail.com"><img src="https://img.shields.io/badge/email-yourstruggle11@gmail.com-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://www.linkedin.com/in/yourstruggle11"><img src="https://img.shields.io/badge/linkedin-yourstruggle11-0f3460?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://yourstruggle11.medium.com"><img src="https://img.shields.io/badge/medium-@yourstruggle11-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://yourstruggle11.netlify.app"><img src="https://img.shields.io/badge/portfolio-yourstruggle11.netlify.app-16213e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
