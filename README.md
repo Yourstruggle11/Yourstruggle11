@@ -2,8 +2,8 @@
 
 ![terminal banner](./terminal-banner.svg)
 
-### I make backend systems boring — in the best way.
-Fast, predictable, and never the reason your pager goes off at 2am.
+### I turn complex full-stack systems into reliable product workflows.
+From the React interface to the API, data model, migration, and deployment path.
 
 </div>
 
@@ -11,8 +11,8 @@ Fast, predictable, and never the reason your pager goes off at 2am.
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  connected to souvik_sen.db (production, read-only)                ║
-║  SELECT * FROM engineers WHERE obsession = 'reliability';           ║
+║  connected to souvik_sen.db (production, read-only)              ║
+║  SELECT * FROM engineers WHERE obsession = 'reliability',         ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -22,9 +22,30 @@ Fast, predictable, and never the reason your pager goes off at 2am.
 
 | id | name | role | location | employer | years_exp | status |
 |---|---|---|---|---|---|---|
-| 1 | Souvik Sen | Software Engineer | Kolkata, IN | Phlo Systems | 3+ | `operational` |
+| 1 | Souvik Sen | Full-Stack Software Engineer | Kolkata, IN | Phlo Systems | 4+ | `operational` |
 
-`1 row returned` — full-stack, backend-leaning. The kind of engineer people notice only when something *stops* being slow.
+`1 row returned` — product-focused and systems-minded, with experience across fintech, SaaS, real-time workflows, and developer tooling.
+
+<br>
+
+## `TABLE core_stack`
+
+```sql
+SELECT layer, technologies
+FROM engineering_stack
+WHERE production_experience = true,
+```
+
+| layer | technologies |
+|---|---|
+| Languages | TypeScript, JavaScript, C#, SQL, Python |
+| Frontend | React, Next.js, React Native, Redux, Zustand, Chakra UI, Tailwind CSS, PWA |
+| Backend | ASP.NET Core, .NET 9, Node.js, Express, FastAPI, REST APIs, SignalR, WebSockets |
+| Data | SQL Server, Azure SQL, PostgreSQL, MongoDB, Redis, Entity Framework Core |
+| Cloud & delivery | Azure App Configuration, Key Vault, Blob Storage, Application Insights, Docker, GitHub Actions, AWS, Nginx |
+| Architecture | Multi-tenant SaaS, configuration-driven systems, event-driven design, feature flags, CI/CD |
+| Testing & identity | xUnit, unit and characterization testing, Azure AD B2C, JWT, OAuth2 |
+| AI tooling | LiteLLM, Anthropic-compatible APIs, Gemini API, cross-platform CLI tooling |
 
 <br>
 
@@ -33,104 +54,94 @@ Fast, predictable, and never the reason your pager goes off at 2am.
 ```sql
 SELECT company, duration, key_contribution
 FROM experience
-ORDER BY start_date DESC;
+ORDER BY start_date DESC,
 ```
 
 | company | duration | key contribution |
 |---|---|---|
-| Phlo Systems | Feb 2024 – present | Architected **FinPhlo**, a trade-finance platform for 50+ enterprise clients. Cut redundant API calls 90% via caching + invalidation. Real-time dashboards (SignalR + PWA) cut refresh lag 70%. Feature-flag rollouts on Azure App Config for zero-downtime deploys. |
-| Quantorix Technology | Nov 2022 – Feb 2024 | Built commodity-trading UI in React + Redux-Saga. Lifted retention 30% shipping critical trade-execution features. Cut page load 35% via lazy loading and selective re-renders. |
-| Matricula | Aug 2022 – Oct 2022 | Shipped a mock-test platform with Razorpay payments. Automated CI/CD on DigitalOcean, cutting manual deploy time 80%. |
-| Quordnet Academy | Dec 2021 – Jul 2022 | Built logistics backend APIs on MERN, with webhook-driven real-time status updates. |
-
-`4 rows returned` — no gaps, no unexplained jumps.
+| Phlo Systems | Feb 2024 – present | Core engineer on **finPhlo**, a multi-tenant trade-finance SaaS platform. Delivered full-stack React/Next.js, ASP.NET Core, Azure SQL, SignalR, and Azure workflows, including a two-stage refactor of its configurable Cost of Sales engine. |
+| Quantorix Technology | Nov 2022 – Feb 2024 | Built commodity-trading workflows with React and Redux-Saga, improved core trade journeys, frontend performance, and API integration patterns. |
+| Matricula | Aug 2022 – Oct 2022 | Shipped a responsive mock-test platform with Razorpay payments and automated DigitalOcean deployments through GitHub Actions. |
+| Quordnet Academy | Dec 2021 – Jul 2022 | Built MERN-based logistics APIs and frontend workflows with webhook-driven, real-time status updates. |
 
 <br>
 
-## `QUERY: performance_optimizations`
+## `QUERY: engineering_impact`
 
 ```sql
-SELECT metric, before_value, after_value, method
-FROM optimizations
-ORDER BY impact_pct DESC;
+SELECT area, outcome, implementation
+FROM engineering_impact
+WHERE evidence = 'shipped',
 ```
 
-| metric | before | after | method |
-|---|---|---|---|
-| API calls / session | 100% | **10%** | client-side caching + smarter invalidation |
-| deploy time | manual (~40 min) | **automated (~8 min)** | GitHub Actions CI/CD |
-| dashboard refresh latency | baseline | **−70%** | SignalR + PWA real-time layer |
-| page load time | baseline | **−35%** | lazy loading, payload trimming, selective re-renders |
-| trade-execution retention | baseline | **+30%** | Redux-Saga driven UX fixes |
-
-`5 rows returned in 0.003s` — every number is tied to a shipped feature, not a benchmark in isolation.
+| area | outcome | implementation |
+|---|---|---|
+| Configurable Deal Sheets | Shifted routine tenant field and layout changes from hard-coded application paths to database-backed profiles | Generic React renderer, server-side validation, and admin-managed schemas |
+| Complexity reduction | Removed a 965-line hard-coded frontend field map and consolidated tenant-specific form behavior | Stable field registry and reusable configured controls |
+| Tenant migration | Migrated 148 configured fields across two baseline tenant schemas | Deterministic EF Core migrations and JSON backfills |
+| Historical safety | Prevented later configuration changes from silently changing existing opportunities | Immutable published revisions, editable drafts, exact revision pinning, and controlled upgrades |
+| Calculation safety | Preserved two code-controlled financial calculation paths during the configuration cutover | Typed C# resolvers plus 90+ xUnit facts/theories and characterization coverage |
+| Delivery controls | Made tenant-specific releases safer and repeatable | Azure feature flags, automated quality gates, and GitHub Actions |
 
 <br>
 
-## `TABLE projects`
+## `TABLE selected_projects`
 
 ```sql
-SELECT name, type, status, description FROM projects;
+SELECT name, type, status, description
+FROM projects
+WHERE selected = true,
 ```
 
 | name | type | status | description |
 |---|---|---|---|
-| **FinPhlo** | fintech platform | `production` · 50+ clients | Trade-finance lifecycle system. The primary source of the metrics above. |
-| **claude-code-gateway** | dev tooling (Python) | `v1.0.0 released` | Local gateway that lets Claude Code run through Gemini or any LiteLLM-supported provider instead of Anthropic's API directly. Cross-platform CLI, MIT licensed. *(mildly funny that you might be reading this via a model that could, in theory, be routed through it.)* |
-| **NotifyFlux** | real-time infra | `active` | Multi-tenant notification engine — Socket.IO + MongoDB change streams, built for guaranteed delivery, not best-effort. |
-| **Scayul** | B2B SaaS | `active` | Referral automation platform — partner CRM, automated email flows, full MERN stack, built solo end-to-end. |
-| **ClearSocial** | social backend | `active` | Feed ranking + Redis caching + autoscaling on AWS. Designed to survive a traffic spike, not just a demo. |
-| **PepHub** | CMS | `active` | Next.js blogging platform with a built-in LaTeX resume builder. Edge-rendered on Vercel. |
-| **react-dragdrop-kit** | OSS library | `published` | Lightweight drag-and-drop toolkit — sortable lists, grids, boards. [Live demo](https://react-dragdrop-kit.netlify.app/). |
-| **Ride Allocation API** | system design | `work in progress` | Driver–passenger matching at scale using REST + load balancing + Redis queues. |
+| [**Claude Code Gateway**](https://github.com/Yourstruggle11/claude-code-gateway) | AI developer tooling · Python | `active` | Cross-platform local gateway that routes Anthropic-format coding-agent traffic through LiteLLM to Gemini and other providers, with secure credential handling, diagnostics, readiness checks, and safe VS Code configuration. |
+| [**NotifyFlux**](https://github.com/Yourstruggle11/NotifyFlux) | Multi-tenant real-time platform | `active` | TypeScript, Express, Socket.IO, MongoDB change streams, and Redis-backed fan-out with tenant isolation, JWT authorization, observability, and graceful recovery. |
+| [**react-dragdrop-kit**](https://github.com/Yourstruggle11/react-dragdrop-kit) | Open-source React library | `published` | TypeScript-first toolkit for controlled list/grid reordering, multi-item drag, live reordering, accessible announcements, and cross-column Kanban workflows. [Live demo](https://react-dragdrop-kit.netlify.app/). |
+| [**Git Time Travel**](https://github.com/Yourstruggle11/git-time-travel) | Open-source CLI | `published` | npm tool for rewriting Git commit timestamps with rollback, batch operations, range filtering, operation history, and `git-filter-repo` integration. |
 
-`8 rows returned`
+Other published tools: [`noexgen`](https://www.npmjs.com/package/noexgen) and [`@yourstruggle11/unslugify`](https://www.npmjs.com/package/@yourstruggle11/unslugify).
 
 <br>
 
-## `TABLE open_source_packages`
+## `TABLE upstream_contributions`
 
 ```sql
-SELECT package, install, purpose FROM npm_registry WHERE author = 'yourstruggle11';
+SELECT project, contribution, evidence
+FROM open_source_work
+WHERE contribution_type = 'upstream diagnostics',
 ```
 
-| package | install | purpose |
+| project | contribution | evidence |
 |---|---|---|
-| `git-time-travel` | `npm i git-time-travel` | CLI to edit commit timestamps without rewriting history |
-| `noexgen` | `npm i noexgen` | Opinionated Express.js app generator — zero bikeshedding on structure |
-| `@yourstruggle11/unslugify` | `npm i @yourstruggle11/unslugify` | Converts slugs back into clean, human-readable titles |
-| `react-dragdrop-kit` | see [demo](https://react-dragdrop-kit.netlify.app/) | Drag-and-drop toolkit for React |
+| LiteLLM | Isolated malformed Anthropic SSE reasoning blocks by reproducing the failure without Claude Code and separating the protocol defect from a secondary cleanup exception | [Issue #33224](https://github.com/BerriAI/litellm/issues/33224) |
+| LiteLLM | Traced a Windows/CPython 3.13 installation regression to missing cross-platform wheels, with release-artifact comparison, reproducible steps, and environment diagnostics | [Issue #31261 comment](https://github.com/BerriAI/litellm/issues/31261#issuecomment-4970915076) |
 
 <br>
 
-## `TABLE blog_posts`
+## `TABLE technical_writing`
 
 ```sql
--- full archive: medium.com/@yourstruggle11
-SELECT title, published FROM medium_posts ORDER BY published DESC;
+-- full archive: medium.com/@souviksen093
+SELECT title, topic FROM selected_articles ORDER BY published DESC,
 ```
 
-| title | published |
+| title | topic |
 |---|---|
-| [Understanding Reconciliation in React 19 & 19.2](https://yourstruggle11.medium.com/react-19-reconciliation-deep-dive-ed433ce1e375) | Nov 2025 |
-| [Your Google Maps Works Because of Einstein's Equations](https://yourstruggle11.medium.com/your-google-maps-works-because-of-einstein-848d83916777) | Nov 2025 |
-| [Drag and Drop in React Doesn't Have to Be Painful — Meet react-dragdrop-kit](https://yourstruggle11.medium.com/drag-and-drop-in-react-doesnt-have-to-be-painful-meet-react-dragdrop-kit-4c73b5022145) | Oct 2025 |
-| [Understanding React Reconciliation in React 18: A Deep Dive](https://yourstruggle11.medium.com/understanding-react-reconciliation-in-react-18-a-deep-dive-16b083e5592a) | Jun 2023 · `3.3k views` |
-| [Mastering Design Patterns in React](https://yourstruggle11.medium.com/mastering-design-patterns-in-react-a-comprehensive-guide-836a288af34) | Jun 2023 |
-| [Mastering React: Best Practices for High-Quality Applications](https://yourstruggle11.medium.com/mastering-react-best-practices-for-building-high-quality-applications-6b60e4e66f7a) | Jun 2023 |
-| [Unleashing the Power of Performance Optimization](https://yourstruggle11.medium.com/unleashing-the-power-of-performance-optimization-in-web-applications-bf23272d06e) | Jun 2023 |
-| [Git Time Travel: A Guide to Manipulating Git History](https://yourstruggle11.medium.com/git-time-travel-a-guide-to-manipulating-git-history-937d314d39f8) | Feb 2023 |
-| [Introducing NoExGen](https://yourstruggle11.medium.com/introducing-noexgen-a-node-express-application-generator-e8c657cb36f) | Feb 2023 |
+| [Understanding Reconciliation in React 19 & 19.2](https://medium.com/@souviksen093/react-19-reconciliation-deep-dive-ed433ce1e375) | Modern React rendering, Actions, Suspense, and Server Components |
+| [Your Google Maps Works Because of Einstein's Equations](https://medium.com/@souviksen093/your-google-maps-works-because-of-einstein-848d83916777) | Distributed systems, clock synchronization, and GPS |
+| [Drag and Drop in React Doesn't Have to Be Painful](https://medium.com/@souviksen093/drag-and-drop-in-react-doesnt-have-to-be-painful-meet-react-dragdrop-kit-4c73b5022145) | Design and implementation of react-dragdrop-kit |
+| [Understanding React Reconciliation in React 18](https://medium.com/@souviksen093/understanding-react-reconciliation-in-react-18-a-deep-dive-16b083e5592a) | React internals and rendering performance |
 
 <br>
 
-## `EXPLAIN ANALYZE` — how I actually work
+## `EXPLAIN ANALYZE` — how I work
 
 ```
-1. Reproduce the slow path before touching code. "Feels slow" isn't a metric.
-2. Fix the cache/invalidation layer before reaching for a bigger instance.
-3. Ship behind a flag. Zero-downtime isn't optional once real clients depend on you.
-4. Write the CI check once. Never explain a deploy step to a teammate twice.
+1. Reproduce the behavior before changing it, capture the boundary in a test.
+2. Keep configurable product concerns separate from code-controlled business rules.
+3. Make migrations deterministic, idempotent, and explicit about historical data.
+4. Ship behind controlled rollout paths and automate the checks worth repeating.
 ```
 
 <br>
@@ -144,26 +155,28 @@ SELECT title, published FROM medium_posts ORDER BY published DESC;
 
 </div>
 
-This block re-queries itself every time someone loads the page — the only section of this README that isn't lying to you by the time you read it.
+This section refreshes from GitHub activity whenever the profile loads.
 
 <br>
 
 ## `INSERT INTO job_search (status) VALUES ('open')`
 
 ```sql
-SELECT role_type, work_mode, best_contact FROM job_search WHERE status = 'open';
+SELECT role_type, work_mode, best_contact
+FROM job_search
+WHERE status = 'open',
 ```
 
 | role_type | work_mode | best_contact |
 |---|---|---|
-| Senior Frontend / Full-Stack | remote-friendly | email or LinkedIn |
+| Full-Stack / Product Engineer | remote-friendly | email or LinkedIn |
 
 <br>
 
 ## `$ exit`
 
 ```
-$ SELECT status FROM engineer WHERE name = 'souvik_sen';
+$ SELECT status FROM engineer WHERE name = 'souvik_sen',
 
  status
 --------------------------------------------
